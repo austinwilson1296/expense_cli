@@ -1,0 +1,16 @@
+click==8.3.0
+greenlet==3.2.4
+markdown-it-py==4.0.0
+mdurl==0.1.2
+numpy==2.3.3
+pandas==2.3.2
+Pygments==2.19.2
+python-dateutil==2.9.0.post0
+pytz==2025.2
+rich==14.1.0
+shellingham==1.5.4
+six==1.17.0
+SQLAlchemy==2.0.43
+typer==0.17.4
+typing_extensions==4.15.0
+tzdata==2025.2
